@@ -7,7 +7,7 @@ Description: CTI-110 Respository
 # About Me 
 ## My Intrests
 ## Websites I Recommend
-      - [Youtube] (https://www.youtube.com) - You offers both knowledge in various topics and aslo entertainment.
+      - [Youtube] (https://www.youtube.com) - Youtube offers both knowledge in various topics and aslo entertainment.
       - [Pintrest] (https://www.pinterest.com) - Pintrest is an easy place to gain inspiration for creative projects.
 Step 1: Click on the "+" icon in the top left corner of the screen and select "Clone a repository." This will
 open a window that shows a list of your Github repositories.
